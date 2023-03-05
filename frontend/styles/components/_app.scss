@@ -1,0 +1,25 @@
+.login,
+.new-post-container,
+.thread-container {
+    box-shadow: 0 0 0 black;
+}
+.login {
+    display: flex;
+    background: rgb(19, 19, 19);
+    border-radius: 10px;
+    padding: 25px;
+}
+.login h3 {
+    font-size: 1.5rem;
+}
+.login input {
+    width: 200px;
+    font-size: 1.5rem;
+    background: none;
+    border: none;
+    color: rgb(3, 218, 81);
+    margin-left: 10px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    outline: none;
+}
